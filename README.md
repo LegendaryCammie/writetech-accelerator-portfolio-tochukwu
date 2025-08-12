@@ -6,7 +6,7 @@ Over the course of the bootcamp, I completed technical writing projects across v
 
 ## 👩🏽‍💻 About Me
 
-I am a Technical Writer with a background in Product Management. I am passionate about communicating effectively through writing. This portfolio highlights the practical skills I’ve built during the WriteTech Accelerator.
+Hey, I’m Cammie,  a writing enthusiast with a background in Product Management. I’m diving into the world of technical writing, exploring everything from API docs to automation tools, and sharing my journey as I learn. I love turning complex ideas into content that’s clear, useful, and actually fun to read. This portfolio highlights the practical skills I’ve built during the WriteTech Accelerator.
 
 
 ## 📁 Project Modules
